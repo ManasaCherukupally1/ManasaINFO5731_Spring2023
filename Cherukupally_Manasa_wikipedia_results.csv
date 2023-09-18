@@ -1,0 +1,100 @@
+City_Rank,City_Name,City_Name_url,City_Country,City_Country_url,City_Arrivals_2018,City_Income_In_Billions
+1,Hong Kong,https://en.wikipedia.org/wiki/Hong_Kong,Hong Kong,https://en.wikipedia.org/wiki/Hong_Kong,"29,262,700",6.84
+2,Bangkok,https://en.wikipedia.org/wiki/Bangkok,Thailand,https://en.wikipedia.org/wiki/Thailand,"24,177,500",14.84
+3,London,https://en.wikipedia.org/wiki/London,United Kingdom,https://en.wikipedia.org/wiki/United_Kingdom,"19,233,000",19.76
+4,Macau,https://en.wikipedia.org/wiki/Macau,Macau,https://en.wikipedia.org/wiki/Macau,"18,931,400",
+5,Singapore,https://en.wikipedia.org/wiki/Singapore,Singapore,https://en.wikipedia.org/wiki/Singapore,"18,551,200",12.54
+6,Paris,https://en.wikipedia.org/wiki/Paris,France,https://en.wikipedia.org/wiki/France,"17,560,200",12.88
+7,Dubai,https://en.wikipedia.org/wiki/Dubai,United Arab Emirates,https://en.wikipedia.org/wiki/United_Arab_Emirates,"15,920,700",31.3
+8,New York City,https://en.wikipedia.org/wiki/New_York_City,United States,https://en.wikipedia.org/wiki/United_States,"13,600,000",18.52
+9,Kuala Lumpur,https://en.wikipedia.org/wiki/Kuala_Lumpur,Malaysia,https://en.wikipedia.org/wiki/Malaysia,"13,434,300",11.34
+10,Istanbul,https://en.wikipedia.org/wiki/Istanbul,Turkey,https://en.wikipedia.org/wiki/Turkey,"13,433,000",7.54
+11,Delhi,https://en.wikipedia.org/wiki/Delhi,India,https://en.wikipedia.org/wiki/India,"12,645,300",1.91
+12,Antalya,https://en.wikipedia.org/wiki/Antalya,Turkey,https://en.wikipedia.org/wiki/Turkey,"12,438,800",
+13,Shenzhen,https://en.wikipedia.org/wiki/Shenzhen,China,https://en.wikipedia.org/wiki/China,"12,202,100",0.83
+14,Mumbai,https://en.wikipedia.org/wiki/Mumbai,India,https://en.wikipedia.org/wiki/India,"10,590,100",3.6
+16,Phuket,https://en.wikipedia.org/wiki/Phuket,Thailand,https://en.wikipedia.org/wiki/Thailand,"10,550,700",
+17,Rome,https://en.wikipedia.org/wiki/Rome,Italy,https://en.wikipedia.org/wiki/Italy,"10,065,400",4.47
+18,Tokyo,https://en.wikipedia.org/wiki/Tokyo,Japan,https://en.wikipedia.org/wiki/Japan,"9,985,100",13.48
+19,Pattaya,https://en.wikipedia.org/wiki/Pattaya,Thailand,https://en.wikipedia.org/wiki/Thailand,"9,606,400",
+20,Taipei,https://en.wikipedia.org/wiki/Taipei,Taiwan,https://en.wikipedia.org/wiki/Taiwan,"9,597,800",9.6
+21,Mecca,https://en.wikipedia.org/wiki/Mecca,Saudi Arabia,https://en.wikipedia.org/wiki/Saudi_Arabia,"9,565,200",
+22,Guangzhou,https://en.wikipedia.org/wiki/Guangzhou,China,https://en.wikipedia.org/wiki/China,"9,004,800",1.66
+23,Prague,https://en.wikipedia.org/wiki/Prague,Czech Republic,https://en.wikipedia.org/wiki/Czech_Republic,"8,948,600",2.7
+24,Medina,https://en.wikipedia.org/wiki/Medina,Saudi Arabia,https://en.wikipedia.org/wiki/Saudi_Arabia,"8,547,200",
+25,Seoul,https://en.wikipedia.org/wiki/Seoul,South Korea,https://en.wikipedia.org/wiki/South_Korea,"8,431,400",11.3
+26,Amsterdam,https://en.wikipedia.org/wiki/Amsterdam,Netherlands,https://en.wikipedia.org/wiki/Netherlands,"8,354,200",4.2
+27,Agra,https://en.wikipedia.org/wiki/Agra,India,https://en.wikipedia.org/wiki/India,"8,138,200",
+28,Miami,https://en.wikipedia.org/wiki/Miami,United States,https://en.wikipedia.org/wiki/United_States,"8,121,300",8.15
+29,Osaka,https://en.wikipedia.org/wiki/Osaka,Japan,https://en.wikipedia.org/wiki/Japan,"7,861,500",3.39
+30,Las Vegas,https://en.wikipedia.org/wiki/Las_Vegas,United States,https://en.wikipedia.org/wiki/United_States,"6,639,300",
+31,Shanghai,https://en.wikipedia.org/wiki/Shanghai,China,https://en.wikipedia.org/wiki/China,"7,483,500",5
+32,Ho Chi Minh City,https://en.wikipedia.org/wiki/Ho_Chi_Minh_City,Vietnam,https://en.wikipedia.org/wiki/Vietnam,"7,200,000",3.12
+33,Denpasar,https://en.wikipedia.org/wiki/Denpasar,Indonesia,https://en.wikipedia.org/wiki/Indonesia,"7,185,600",
+34,Barcelona,https://en.wikipedia.org/wiki/Barcelona,Spain,https://en.wikipedia.org/wiki/Spain,"6,714,500",9.28
+35,Los Angeles,https://en.wikipedia.org/wiki/Los_Angeles,United States,https://en.wikipedia.org/wiki/United_States,"6,591,300",8.1
+36,Milan,https://en.wikipedia.org/wiki/Milan,Italy,https://en.wikipedia.org/wiki/Italy,"6,481,300",4.56
+37,Chennai,https://en.wikipedia.org/wiki/Chennai,India,https://en.wikipedia.org/wiki/India,"6,422,800",3.24
+38,Vienna,https://en.wikipedia.org/wiki/Vienna,Austria,https://en.wikipedia.org/wiki/Austria,"6,410,300",4.54
+39,Johor Bahru,https://en.wikipedia.org/wiki/Johor_Bahru,Malaysia,https://en.wikipedia.org/wiki/Malaysia,"6,396,000",
+40,Jaipur,https://en.wikipedia.org/wiki/Jaipur,India,https://en.wikipedia.org/wiki/India,"6,383,400",
+41,Cancún,https://en.wikipedia.org/wiki/Canc%C3%BAn,Mexico,https://en.wikipedia.org/wiki/Mexico,"6,041,000",
+42,Berlin,https://en.wikipedia.org/wiki/Berlin,Germany,https://en.wikipedia.org/wiki/Germany,"5,959,400",5
+43,Cairo,https://en.wikipedia.org/wiki/Cairo,Egypt,https://en.wikipedia.org/wiki/Egypt,"5,754,500",1.08
+44,Orlando,https://en.wikipedia.org/wiki/Orlando,United States,https://en.wikipedia.org/wiki/United_States,"5,553,600",
+45,Moscow,https://en.wikipedia.org/wiki/Moscow,Russia,https://en.wikipedia.org/wiki/Russia,"5,510,000",0.94
+46,Venice,https://en.wikipedia.org/wiki/Venice,Italy,https://en.wikipedia.org/wiki/Italy,"5,502,500",
+47,Madrid,https://en.wikipedia.org/wiki/Madrid,Spain,https://en.wikipedia.org/wiki/Spain,"5,440,100",8.02
+48,Ha Long,https://en.wikipedia.org/wiki/Ha_Long,Vietnam,https://en.wikipedia.org/wiki/Vietnam,"5,294,800",
+49,Riyadh,https://en.wikipedia.org/wiki/Riyadh,Saudi Arabia,https://en.wikipedia.org/wiki/Saudi_Arabia,"5,267,500",1.69
+50,Dublin,https://en.wikipedia.org/wiki/Dublin,Ireland,https://en.wikipedia.org/wiki/Republic_of_Ireland,"5,213,400",1.87
+51,Florence,https://en.wikipedia.org/wiki/Florence,Italy,https://en.wikipedia.org/wiki/Italy,"5,059,900",
+52,Jerusalem,https://en.wikipedia.org/wiki/Jerusalem,Israel,https://en.wikipedia.org/wiki/Israel,"4,800,000[4]",
+53,Hanoi,https://en.wikipedia.org/wiki/Hanoi,Vietnam,https://en.wikipedia.org/wiki/Vietnam,"4,687,000",1.28
+54,Toronto,https://en.wikipedia.org/wiki/Toronto,Canada,https://en.wikipedia.org/wiki/Canada,"4,510,300",2.16
+55,Johannesburg,https://en.wikipedia.org/wiki/Johannesburg,South Africa,https://en.wikipedia.org/wiki/South_Africa,"4,120,800",1.73
+56,Sydney,https://en.wikipedia.org/wiki/Sydney,Australia,https://en.wikipedia.org/wiki/Australia,"4,090,600",6.4
+57,Munich,https://en.wikipedia.org/wiki/Munich,Germany,https://en.wikipedia.org/wiki/Germany,"4,066,600",5.32
+58,Jakarta,https://en.wikipedia.org/wiki/Jakarta,Indonesia,https://en.wikipedia.org/wiki/Indonesia,"4,033,000",1.19
+59,Beijing,https://en.wikipedia.org/wiki/Beijing,China,https://en.wikipedia.org/wiki/China,"4,002,400",4.08
+60,Saint Petersburg,https://en.wikipedia.org/wiki/Saint_Petersburg,Russia,https://en.wikipedia.org/wiki/Russia,"3,996,000",0.51
+61,Brussels,https://en.wikipedia.org/wiki/Brussels,Belgium,https://en.wikipedia.org/wiki/Belgium,"3,942,000",1.92
+62,Budapest,https://en.wikipedia.org/wiki/Budapest,Hungary,https://en.wikipedia.org/wiki/Hungary,"3,822,800",0.95
+63,Athens,https://en.wikipedia.org/wiki/Athens,Greece,https://en.wikipedia.org/wiki/Greece,"3,765,000",
+64,Lisbon,https://en.wikipedia.org/wiki/Lisbon,Portugal,https://en.wikipedia.org/wiki/Portugal,"3,539,400",1.43
+65,Dammam,https://en.wikipedia.org/wiki/Dammam,Saudi Arabia,https://en.wikipedia.org/wiki/Saudi_Arabia,"3,498,900",
+66,Penang Island,https://en.wikipedia.org/wiki/Penang,Malaysia,https://en.wikipedia.org/wiki/Malaysia,"3,437,100",
+67,Heraklion,https://en.wikipedia.org/wiki/Iraklio,Greece,https://en.wikipedia.org/wiki/Greece,"3,371,800",
+68,Kyoto,https://en.wikipedia.org/wiki/Kyoto,Japan,https://en.wikipedia.org/wiki/Japan,"3,294,200",
+69,Zhuhai,https://en.wikipedia.org/wiki/Zhuhai,China,https://en.wikipedia.org/wiki/China,"3,259,700",
+70,Vancouver,https://en.wikipedia.org/wiki/Vancouver,Canada,https://en.wikipedia.org/wiki/Canada,"3,212,100",2.12
+71,Chiang Mai,https://en.wikipedia.org/wiki/Chiang_Mai,Thailand,https://en.wikipedia.org/wiki/Thailand,"3,196,000",
+72,Copenhagen,https://en.wikipedia.org/wiki/Copenhagen,Denmark,https://en.wikipedia.org/wiki/Denmark,"3,069,700",0.91
+73,San Francisco,https://en.wikipedia.org/wiki/San_Francisco,United States,https://en.wikipedia.org/wiki/United_States,"2,901,000",5.93
+74,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Australia,https://en.wikipedia.org/wiki/Australia,"2,889,000",4.94
+75,Warsaw,https://en.wikipedia.org/wiki/Warsaw,Poland,https://en.wikipedia.org/wiki/Poland,"2,850,000",0.51
+76,Marrakesh,https://en.wikipedia.org/wiki/Marrakesh,Morocco,https://en.wikipedia.org/wiki/Morocco,"2,838,100",
+77,Kolkata,https://en.wikipedia.org/wiki/Kolkata,India,https://en.wikipedia.org/wiki/India,"2,826,500",1.27
+78,Cebu City,https://en.wikipedia.org/wiki/Cebu_City,Philippines,https://en.wikipedia.org/wiki/Philippines,"2,805,100",
+79,Auckland,https://en.wikipedia.org/wiki/Auckland,New Zealand,https://en.wikipedia.org/wiki/New_Zealand,"2,798,900",
+80,Tel Aviv,https://en.wikipedia.org/wiki/Tel_Aviv,Israel,https://en.wikipedia.org/wiki/Israel,"2,777,000",1.31
+81,Guilin,https://en.wikipedia.org/wiki/Guilin,China,https://en.wikipedia.org/wiki/China,"2,747,000",
+82,Honolulu,https://en.wikipedia.org/wiki/Honolulu,United States,https://en.wikipedia.org/wiki/United_States,"2,737,300",
+83,Hurghada,https://en.wikipedia.org/wiki/Hurghada,Egypt,https://en.wikipedia.org/wiki/Egypt,"2,735,700",
+84,Kraków,https://en.wikipedia.org/wiki/Krak%C3%B3w,Poland,https://en.wikipedia.org/wiki/Poland,"2,732,000",
+85,Muğla,https://en.wikipedia.org/wiki/Mu%C4%9Fla,Turkey,https://en.wikipedia.org/wiki/Turkey,"2,723,800",
+86,Buenos Aires,https://en.wikipedia.org/wiki/Buenos_Aires,Argentina,https://en.wikipedia.org/wiki/Argentina,"2,685,700",1.69
+87,Chiba,"https://en.wikipedia.org/wiki/Chiba,_Chiba",Japan,https://en.wikipedia.org/wiki/Japan,"2,683,900",
+88,Frankfurt am Main,https://en.wikipedia.org/wiki/Frankfurt_am_Main,Germany,https://en.wikipedia.org/wiki/Germany,"2,636,000",3.67
+89,Stockholm,https://en.wikipedia.org/wiki/Stockholm,Sweden,https://en.wikipedia.org/wiki/Sweden,"2,604,600",1.68
+90,Lima,https://en.wikipedia.org/wiki/Lima,Peru,https://en.wikipedia.org/wiki/Peru,"2,535,400",1.44
+91,Da Nang,https://en.wikipedia.org/wiki/Da_Nang,Vietnam,https://en.wikipedia.org/wiki/Vietnam,"2,505,000",
+92,Batam,https://en.wikipedia.org/wiki/Batam,Indonesia,https://en.wikipedia.org/wiki/Indonesia,"2,492,600",
+93,Nice,https://en.wikipedia.org/wiki/Nice,France,https://en.wikipedia.org/wiki/France,"2,466,800",
+94,Fukuoka,https://en.wikipedia.org/wiki/Fukuoka,Japan,https://en.wikipedia.org/wiki/Japan,"2,436,900",
+95,Abu Dhabi,https://en.wikipedia.org/wiki/Abu_Dhabi,United Arab Emirates,https://en.wikipedia.org/wiki/United_Arab_Emirates,"2,402,800",2.65
+96,Jeju,https://en.wikipedia.org/wiki/Jeju-si,South Korea,https://en.wikipedia.org/wiki/South_Korea,"2,349,200",
+97,Porto,https://en.wikipedia.org/wiki/Porto,Portugal,https://en.wikipedia.org/wiki/Portugal,"2,341,300",
+98,Rhodes,https://en.wikipedia.org/wiki/Rhodes_(city),Greece,https://en.wikipedia.org/wiki/Greece,"2,337,700",
+99,Rio de Janeiro,https://en.wikipedia.org/wiki/Rio_de_Janeiro,Brazil,https://en.wikipedia.org/wiki/Brazil,"2,278,300",0.97
+100,Krabi,https://en.wikipedia.org/wiki/Krabi,Thailand,https://en.wikipedia.org/wiki/Thailand,"2,255,300",
