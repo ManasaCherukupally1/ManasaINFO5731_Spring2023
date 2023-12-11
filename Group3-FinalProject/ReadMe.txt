@@ -1,4 +1,4 @@
-WeScraping_ResearchPapers.ipynb - Contains code related to Webscraping Research papers from CoNLL
+WebScraping_ResearchPapers.ipynb - Contains code related to Webscraping Research papers from CoNLL
 Extracting_Contributions.ipynb - Code to extract contributions from the Research papers
 SciBERT_GPT2_final.ipynb - Code for Data cleaning, Exploratory Data Analysis, SciBERT and GPT-2 Model traning
 final_contribtuions.csv - Contribution sentences
